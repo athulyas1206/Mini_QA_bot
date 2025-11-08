@@ -37,3 +37,8 @@ The project is implemented in **Google Colab** and saved as a `.ipynb` notebook.
 
 ## Project Structure
 
+**Screenshots:**
+
+![Interface Screenshot 1](Screenshots/ss%201.png)
+![Interface Screenshot 2](Screenshots/ss%202.png)
+
